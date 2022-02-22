@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+github:
+  repository_url: https://github.com/ibz/btc2fiat
+  repository_nwo: ibz/btc2fiat
+
+author:
+  name: Ioan Bizău
+  url: https://ibz.me
+  email: btc2fiat@ibz.me
+
+permalink: /posts/:title/
